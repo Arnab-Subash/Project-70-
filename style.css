@@ -22,3 +22,22 @@
 html{
     scroll-behavior: smooth;
 }
+.book_head{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;   
+    width: 100%;
+    display: inline-block;
+    margin-bottom: 15px;
+}
+.book_head i {
+    float: right;
+}
+
+.book_text span{
+    color: gold;
+}
+
+.foot{
+    cursor: pointer;
+}
